@@ -1,5 +1,5 @@
 # carrinho-compras
-Projeto do Curso de Lógica da Alura
+Projeto do Curso de Lógica da Alura com JS
 
 O objetivo deste projeto foi ativar as funcionalidades do carrinho de compras. Inclusão de produtos, multiplicação pela quantidade escolhida e atualização do total.
 
